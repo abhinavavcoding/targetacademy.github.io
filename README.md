@@ -1,1 +1,1 @@
-# targetacademy.github.io
+# targetacademy
